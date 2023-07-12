@@ -72,7 +72,7 @@ GATCL2CD is effective tool for drug repositioning and we are thankful that [Gu e
     * Proposed in [REDDA: Integrating multiple biological relations to heterogeneous graph neural network for drug-disease association prediction](https://www.sciencedirect.com/science/article/pii/S0010482522008356), Computers in Biology and Medicine 2022.
 
 * MilGNet (2022)
-    * Proposed in [MilGNet: a multi-instance learning-based heterogeneous graph network for drug repositioning](hhttps://ieeexplore.ieee.org/abstract/document/9995152/), BIBM 2022.
+    * Proposed in [MilGNet: a multi-instance learning-based heterogeneous graph network for drug repositioning](https://ieeexplore.ieee.org/abstract/document/9995152/), BIBM 2022.
 
 
 

@@ -17,8 +17,8 @@ along with this program; if not, see <http://www.gnu.org/licenses/>.
 
 
 
-# GATCL2CD
-GATCL2CD is effective tool for drug repositioning and we are thankful that [Gu et al.](https://www.sciencedirect.com/science/article/pii/S0010482522008356) have published part of their data which can be used directly.
+# MRLHGNN
+MRLHGNN is effective tool for drug repositioning and we are thankful that [Gu et al.](https://www.sciencedirect.com/science/article/pii/S0010482522008356) have published part of their data which can be used directly.
 
 
 
